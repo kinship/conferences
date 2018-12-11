@@ -11,7 +11,7 @@ The project board can track what who is doing what and what conferences are upco
 
 ### Upcoming conferences
 
-If there are any conferences you are aware of, please add them to the list of conferences. Include any details you know about the conference including dates, urls for the conference and CFP, weather or not travel is taken care of, and any other additional details. In addition, please create an issue with a due date as the first day of the conference and place it in the `upcoming` column on the project board.
+If there are any conferences you are aware of, please add them to the [list of conferences](conferences.md). Include any details you know about the conference including dates, urls for the conference and CFP, weather or not travel is taken care of, and any other additional details. In addition, please create an issue with a due date as the first day of the conference and place it in the `upcoming` column on the project board.
 
 ### Attending conferences
 
@@ -37,6 +37,6 @@ Once the conference has ended, please close the issue for the conference.
 
 ## CONTRIBUTING
 
-If you are part of the Kinship team, feel free to just push to master for any new conference you find out about. :shrug: Please add the appropriate issue as well.
+If you are part of the Kinship team, feel free to just push to master for any new conference you find out about. :man_shrugging: Please add the appropriate issue as well.
 
-If you want to add to the list of conferences on this open source repo so others find it or you want to bring it to the attention of the Kinship team, please create a PR for the list of conferences and/or open an issue for it. It would help out the community if you did both :)
+If you want to add to the [list of conferences](conferences.md) on this open source repo so others find it or you want to bring it to the attention of the Kinship team, please create a PR for the [list of conferences](conferences.md) and/or open an issue for it. It would help out the community if you did both :)
